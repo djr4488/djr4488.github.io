@@ -17,4 +17,4 @@ I'm a father of five, and I code and manage developers for a living.  I've helpe
 3. Things I have out there, which I'm not as proud of, my cards game, and my metrics library.  I leave them there because I hope to either finish them and correct the issues I perceive in them, or use them as a reminder of, what the heck was I thinking when I did that?!?!
 
 ## Fun fact
-1. I like thunderstorms, and if given the opportunity will chance a tornado with my Brother-in-law.  
+1. I like thunderstorms, and if given the opportunity will chase a tornado with my Brother-in-law.  
