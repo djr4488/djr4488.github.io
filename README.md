@@ -12,7 +12,7 @@ I'm a father of five, I code, and I manage developers for a living.  I've helped
 5. **Data** ElasticSearch and MySQL. Yup, I have used both of these, and both serve a purpose.  Use them inappropriately, and both will bite you hard.  Use them correctly(like anything else again), and things will simply just work.  Though I do prefer PostgreSQL over MySQL, just found it in some cases a little easier.
 
 ## Things I'd like to share with the world
-1. Anything you see on my github. In particular, I'm happy to share:
+> Anything you see on my github. In particular, I'm happy to share:
 
 [CDI Utility Library](https://www.github.com/djr4488/cdi)
 
@@ -22,7 +22,7 @@ I'm a father of five, I code, and I manage developers for a living.  I've helped
 
 [Elastic EE Library](https://github.com/djr4488/elasticee)
 
-2. Things I have done, either to serve as a reminder to what was I thinking or to hope to one day fix perceived issues and finish them:
+> Things I have done, either to serve as a reminder to what was I thinking or to hope to one day fix perceived issues and finish them:
 
 [Cards Game](https://github.com/djr4488/cards)
 
