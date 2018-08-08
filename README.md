@@ -13,6 +13,7 @@ I'm a father of five, I code, and I manage developers for a living.  I've helped
 
 ## Things I'd like to share with the world
 1. Anything you see on my github. In particular, I'm happy to share:
+
 [CDI Utility Library](https://www.github.com/djr4488/cdi)
 
 [Retrofit2 EE Library](https://www.github.com/djr4488/retrofit2javaee)
@@ -22,7 +23,8 @@ I'm a father of five, I code, and I manage developers for a living.  I've helped
 [Elastic EE Library](https://github.com/djr4488/elasticee)
 
 2. Things I have done, either to serve as a reminder to what was I thinking or to hope to one day fix perceived issues and finish them:
-[Cards Game](https://github.com/djr4488/cards
+
+[Cards Game](https://github.com/djr4488/cards)
 
 [Nintendo Channel Feeder](https://github.com/djr4488/NintendoChannelFeeder)
 
