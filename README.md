@@ -12,9 +12,19 @@ I'm a father of five, I code, and I manage developers for a living.  I've helped
 5. **Data** ElasticSearch and MySQL. Yup, I have used both of these, and both serve a purpose.  Use them inappropriately, and both will bite you hard.  Use them correctly(like anything else again), and things will simply just work.  Though I do prefer PostgreSQL over MySQL, just found it in some cases a little easier.
 
 ## Things I'd like to share with the world
-1. Anything you see on my github.
-2. In particular, I like the work I've done on my CDI project and the Retrofit project(to make a Feign like client for Java EE).  
-3. Things I have out there, which I'm not as proud of, my cards game, and my metrics library.  I leave them there because I hope to either finish them and correct the issues I perceive in them, or use them as a reminder of, what the heck was I thinking when I did that?!?!
+1. Anything you see on my github. In particular, I'm happy to share:
+> [CDI Utility Library](https://www.github.com/djr4488/cdi)
+> [Retrofit2 EE Library](https://www.github.com/djr4488/retrofit2javaee)
+> [Securus - A security camera solution, just because I could](https://github.com/djr4488/camera-notifier)
+> [Elastic EE Library](https://github.com/djr4488/elasticee)
+
+2. Things I have done, either to serve as a reminder to what was I thinking or to hope to one day fix perceived issues and finish them:
+> [Cards Game](https://github.com/djr4488/cards)
+> [Nintendo Channel Feeder](https://github.com/djr4488/NintendoChannelFeeder)
+> [Metrics Library](https://github.com/djr4488/metrics)
+
+## What I hope to do in the much nearer future than I thought possible
+Start my own company.
 
 ## Fun fact
 1. I like thunderstorms, and if given the opportunity will chase a tornado with my Brother-in-law.  
