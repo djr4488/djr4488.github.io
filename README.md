@@ -13,15 +13,15 @@ I'm a father of five, I code, and I manage developers for a living.  I've helped
 
 ## Things I'd like to share with the world
 1. Anything you see on my github. In particular, I'm happy to share:
-> [CDI Utility Library](https://www.github.com/djr4488/cdi)
-> [Retrofit2 EE Library](https://www.github.com/djr4488/retrofit2javaee)
-> [Securus - A security camera solution, just because I could](https://github.com/djr4488/camera-notifier)
-> [Elastic EE Library](https://github.com/djr4488/elasticee)
+> 1. [CDI Utility Library](https://www.github.com/djr4488/cdi)
+> 2. [Retrofit2 EE Library](https://www.github.com/djr4488/retrofit2javaee)
+> 3. [Securus - A security camera solution, just because I could](https://github.com/djr4488/camera-notifier)
+> 4. [Elastic EE Library](https://github.com/djr4488/elasticee)
 
 2. Things I have done, either to serve as a reminder to what was I thinking or to hope to one day fix perceived issues and finish them:
-> [Cards Game](https://github.com/djr4488/cards)
-> [Nintendo Channel Feeder](https://github.com/djr4488/NintendoChannelFeeder)
-> [Metrics Library](https://github.com/djr4488/metrics)
+> 1. Cards Game](https://github.com/djr4488/cards)
+> 2. [Nintendo Channel Feeder](https://github.com/djr4488/NintendoChannelFeeder)
+> 3. [Metrics Library](https://github.com/djr4488/metrics)
 
 ## What I hope to do in the much nearer future than I thought possible
 Start my own company.
