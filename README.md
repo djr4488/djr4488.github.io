@@ -14,7 +14,7 @@ I'm a father of five, I code, and I manage developers for a living.  I've helped
 ## Things I'd like to share with the world
 > Anything you see on my github. In particular, I'm happy to share:
 
-[CDI Utility Library](https://www.github.com/djr4488/cdi)
+[CDI Utility Library](https://djr4488.github.io/cdi)
 
 [Retrofit2 EE Library](https://www.github.com/djr4488/retrofit2javaee)
 
