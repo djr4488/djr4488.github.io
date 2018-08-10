@@ -16,7 +16,9 @@ I'm a father of five, I code, and I manage developers for a living.  I've helped
 
 [CDI Utility Library](https://djr4488.github.io/cdi)
 
-[Retrofit2 EE Library](https://www.github.com/djr4488/retrofit2javaee)
+[Retrofit2 EE Library](https://djr4488.github.io/retrofit2javaee)
+
+[Simple Audit Service](https://djr4488.github.io/audit-service)
 
 [Securus - A security camera solution, just because I could](https://github.com/djr4488/camera-notifier)
 
